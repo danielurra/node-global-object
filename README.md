@@ -1,5 +1,8 @@
 # Node.js Global object
 Node Global object
+```javascript
+console.log(global);
+```
 ![global-object](https://github.com/danielurra/node-global-object/assets/51704179/59584869-eff9-4a79-8ee2-9d65f152b8a9)
 
 ## There is no window object in node
