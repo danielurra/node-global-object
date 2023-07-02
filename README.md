@@ -1,3 +1,5 @@
+![Node js_logo_650x390px](https://github.com/danielurra/node-global-object/assets/51704179/6cf21d42-76f3-4a28-b8ef-f2e4fee48e31)
+
 # Node.js Global object
 Node Global object
 ```javascript
